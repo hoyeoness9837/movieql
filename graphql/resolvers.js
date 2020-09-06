@@ -1,5 +1,5 @@
 const resolvers = {
-    Query: {
-        name: ()=> "nicolas"
-    }
-}
+  Query: {
+    name: () => "nicolas",
+  },
+};
